@@ -7,7 +7,7 @@ export default function CommunityCard() {
             <h2 className="text-5xl font-normal text-black">CommunityDAO</h2>
             <p className="text-3xl text-black">Members: xxx</p>
           </div>
-          <div className="px-6 py-3 bg-[#387478] text-white rounded-full">
+          <div className="px-6 py-3 bg-primary text-white rounded-full">
             <span className="text-xl">Gaming</span>
           </div>
         </div>
